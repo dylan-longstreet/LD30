@@ -4,3 +4,9 @@
 [submodule "PlanetUnityDemo/Assets/Resources/PlanetUnityShaders"]
 	path = PlanetUnityDemo/Assets/Resources/PlanetUnityShaders
 	url = https://github.com/SmallPlanetUnity/PlanetUnityShaders
+[submodule "LD30/Assets/PlanetUnity"]
+	path = LD30/Assets/PlanetUnity
+	url = https://github.com/SmallPlanetUnity/PlanetUnity.git
+[submodule "LD30/Assets/Resources/PlanetUnity"]
+	path = LD30/Assets/Resources/PlanetUnity
+	url = https://github.com/SmallPlanetUnity/PlanetUnityShaders.git
